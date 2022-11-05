@@ -69,6 +69,8 @@ tworzymy dwa repozytoria:
 
 nvn clean package
 mnv deploy
+lub:
+mvn clean deploy -P release
 
 
 ciągnie z lokalnego nexusa :)
