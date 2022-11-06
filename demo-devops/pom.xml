@@ -61,7 +61,7 @@
 <!--		</snapshotRepository>-->
 <!--	</distributionManagement>-->
 
-
+    <!-- NEXUS -->
 	<distributionManagement>
 		<snapshotRepository>
 			<id>mavendeployment</id>
